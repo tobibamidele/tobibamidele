@@ -1,8 +1,6 @@
----
 # Tobi Bamidele
----
-**Mobile App Developer • Backend Developer • Cybersecurity Enthusiast**
----
+## **Mobile App Developer • Backend Developer • Cybersecurity Enthusiast**
+
 
 ## 👩‍💻 About Me
 I build scalable mobile and backend systems with a focus on reliability, performance, and minimal downtime.
@@ -42,9 +40,9 @@ hobbies = ["Coding", "Gaming"]
   <img src="https://skillicons.dev/icons?i=python,go,flutter,fastapi,flask,typescript,rust,postgres,redis,supabase,github,linux&perline=12" />
 </p>
 
-**Languages:** Go, Python, Dart, TypeScript
-**Frameworks:** Gin, FastAPI, Flask
-**Databases:** PostgreSQL, Redis, Firebase, Supabase
+**Languages:** Go, Python, Dart, TypeScript \
+**Frameworks:** Gin, FastAPI, Flask \
+**Databases:** PostgreSQL, Redis, Firebase, Supabase \
 **Other:** Rust, Linux, GitHub
 
 ---
