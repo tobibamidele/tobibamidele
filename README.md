@@ -1,16 +1,54 @@
-## Hi there 👋
+---
+# Tobi Bamidele
 
-<!--
-**tobibamidele/tobibamidele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mobile App Developer • Backend Developer • Cybersecurity Enthusiast**
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+I build scalable mobile and backend systems with a focus on reliability, performance, and minimal downtime.
+```toml
+name = "Tobi Bamidele"
+location = "Nigeria"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+expertise = [
+  "Mobile App Development",
+  "Backend Systems",
+  "Data Workflows",
+  "Cybersecurity"
+]
+
+education = [
+  "Self-taught Backend and Mobile Developer",
+  "Undergraduate in Cybersecurity"
+]
+
+hobbies = ["Coding", "Gaming"]
+```
+
+---
+
+## 🙋‍♂️ What I Offer
+
+* **Scalable microservice architectures**
+* **Security-first system design and IAM**
+* **Distributed and asynchronous processing**
+* **Data orchestration and reliable pipelines**
+
+---
+
+## ⚙ Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,flutter,fastapi,flask,typescript,rust,postgres,redis,supabase,github,linux&perline=12" />
+</p>
+
+**Languages:** Go, Python, Dart, TypeScript
+**Frameworks:** Gin, FastAPI, Flask
+**Databases:** PostgreSQL, Redis, Firebase, Supabase
+**Other:** Rust, Linux, GitHub
+
+---
+
+## Reach out
+
+📧 **[franklintobi09@gmail.com](mailto:franklintobi09@gmail.com)**
