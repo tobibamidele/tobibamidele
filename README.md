@@ -47,6 +47,17 @@ hobbies = ["Coding", "Gaming"]
 
 ---
 
+## Projects
+- Idan
+Fast, lightweight authentication library built on top Go's net/http for easy prototyping and rapid deployment of microservices.
+[Check it out](https://github.com/tobibamidele/idan)
+
+- Kodo
+Chat application built with Flutter and Firebase
+[Check it out](https://github.com/tobibamidele/kodo)
+
+---
+
 ## Reach out
 
 📧 **[franklintobi09@gmail.com](mailto:franklintobi09@gmail.com)**
