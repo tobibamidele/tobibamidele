@@ -48,6 +48,11 @@ hobbies = ["Coding", "Gaming"]
 ---
 
 ## Projects
+### Doth
+A Dart implementation of [markgates/goth](https://github.com/markgates/goth). It's a multi-provider OAuth library for backend services that supports virtually all frameworks in Dart like `shelf`, `alfred`, `dart_frog`, and pure `dart:io`.
+
+[Check it out](https://github.com/tobibamidele/doth)
+
 ### Idan
 Fast, lightweight authentication library built on top Go's net/http for easy prototyping and rapid deployment of microservices.
 
