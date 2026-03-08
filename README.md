@@ -49,7 +49,7 @@ hobbies = ["Coding", "Gaming"]
 
 ## Projects
 ### Doth
-A Dart implementation of [markgates/goth](https://github.com/markgates/goth). It's a multi-provider OAuth library for backend services that supports virtually all frameworks in Dart like `shelf`, `alfred`, `dart_frog`, and pure `dart:io`.
+A Dart implementation of [markbates/goth](https://github.com/markbates/goth). It's a multi-provider OAuth library for backend services that supports virtually all frameworks in Dart like `shelf`, `alfred`, `dart_frog`, and pure `dart:io`.
 
 [Check it out](https://github.com/tobibamidele/doth)
 
